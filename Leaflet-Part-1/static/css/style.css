@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  #map,
+  body,
+  html {
+    height: 125%;
+  }
+  
+/* style of the legend to have a white background */
+  .legend {
+    line-height: 22px;
+    color: black;
+    text-align: right;
+    background-color: rgb(255, 255, 255);
+  }
+  .legend i {
+    width: 45px;
+    height: 30px;
+    float: right;
+    margin-left: 10px;
+    opacity: 0.8;
+  }

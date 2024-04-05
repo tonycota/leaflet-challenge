@@ -2,6 +2,7 @@
 Armando Cota's submission for Module 15 Assignment 
 
 Click here to view the website via github pages!
+https://tonycota.github.io/leaflet-challenge/
 
 Instructions for this assignment
 

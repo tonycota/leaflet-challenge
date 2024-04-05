@@ -1,14 +1,16 @@
 # leaflet-challenge
 Armando Cota's submission for Module 15 Assignment 
 
-Click here to view the website via github pages!
+### Click here to view the website via github pages!
 https://tonycota.github.io/leaflet-challenge/
 
-Instructions for this assignment
+Within this repository you will find HTML, CSS and JS files interacting with one another to develop a user friendly and interactive page displaying Earthquakes from USGS. Drawing information from this website and creating an interactive map that shows Earthquakes from the past 7 days. Feel free to follow the link above and interact with the page yourself! Also below is a screenshot of what to expect upon clicking the link. The page shows markers varying on magnitude size of earthquakes, and once clicking shows popup information regarding location, size and time of occurence. 
+
+
 
 ![Alt text](color_map.jpg)
 
-
+### Instructions for the Assignment
 Part 1: Create the Earthquake Visualization
 2-BasicMap
 

@@ -6,6 +6,9 @@ https://tonycota.github.io/leaflet-challenge/
 
 Instructions for this assignment
 
+![Alt text](color_map.jpg)
+
+
 Part 1: Create the Earthquake Visualization
 2-BasicMap
 
